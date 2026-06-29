@@ -1,0 +1,16 @@
+Gwampa Forest Monitoring Dashboard - Methodology Note
+
+Created by Powell Ndlovu, Zimbabwe.
+
+Workflow summary:
+1. Gwampa Forest boundary was used to define the area of interest.
+2. Google Earth Engine was used to process annual remote sensing indicators.
+3. Esri Living Atlas land cover layers were included for 2018-2025 land cover evidence.
+4. Annual statistics include NDVI, LST, NBR / burn ratio, annual forest loss, and cumulative forest loss.
+5. Dashboard charts and map panels communicate degradation, surface heat stress, burn recovery and restoration priorities.
+
+Competition evidence:
+- Stipulated datasets represented: Esri Living Atlas and RCOE / RCMRD Geoportal sources.
+- Processing platform: Google Earth Engine.
+
+
